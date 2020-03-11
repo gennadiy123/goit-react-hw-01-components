@@ -1,0 +1,33 @@
+.id {
+    display: flex;
+    justify-content: left;
+    width: 300px;
+    padding-bottom: 10px;
+    align-items: center;
+}
+
+.id span {
+    width: 20px;
+    height: 20px;
+    border-radius: 90%;
+    margin-right: 20px;
+}
+
+.isOnline {
+    background-color: green;
+}
+
+.isOffline {
+    background-color: red;
+    
+}
+
+.avatar {
+    margin-right: 20px;
+}
+
+.name {
+    font-family: sans-serif;
+    font-size: 28px;
+}
+

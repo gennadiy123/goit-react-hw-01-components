@@ -1,0 +1,12 @@
+.statistics {
+    border: solid 1px black;
+    width: 500px;
+    text-align: center;
+}
+
+.statList {
+    display: flex;
+    justify-content: space-between;
+    list-style-type: none;
+    padding: 0 10px;
+}
